@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Conflict
+=======
+conflict
+>>>>>>> c1c6a171f3a6765de0142c2c282aa395ee6c3337
+>>>>>>> Resolved
